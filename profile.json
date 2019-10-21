@@ -1,0 +1,45 @@
+{
+    "va_name": "TJ",
+    "va_gender": "male",
+    "name": "sanjay",
+    "stt": "google",
+    "tts": "xxxx",
+    "hotword_detection": "on",
+    "telegram_username": "dsjkfdsjfd",
+    "telegram_token": "xxxx",
+    "music_path": "C:/Users/SANJAY/Music",
+    "images_path": "C:/Users/SANJAY/Pictures",
+    "degrees": "celsius",
+    "pocketsphinx": {
+        "modeldir": "./data/model/",
+        "hmm": "hmm/en_us/hub4wsj_sc_8k",
+        "lm": "lm/sphinx.lm",
+        "dic": "lm/sphinx.dic"
+    },
+    "twitter": {
+        "access_token": "xxxx",
+        "access_token_secret": "xxxx",
+        "consumer_key": "xxxx",
+        "consumer_secret": "xxxx"
+    },
+    "imgur": {
+        "client_id": "xxxx",
+        "client_secret": "xxxx"
+    },
+    "ivona": {
+        "access_key": "xxxx",
+        "secret_key": "xxxx"
+    },
+    "gmail": {
+        "address": "dfjdksf@gmail.com",
+        "password": "dfjdskfdsf"
+    },
+    "icloud": {
+        "username": "kjdskfdsf@cloud.com",
+        "password": "dfjkdsfjdksfd"
+    },
+    "pushbullet": "",
+    "modules": "actions",
+    "actions_db_file": ":memory:",
+    "memory_db": "./data/memory.db"
+}
